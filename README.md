@@ -1,12 +1,13 @@
 ### Hi there and welcome to my Github Page 👋
 
-I am a software craftsman for 5 years, passionate developer. I developed many projects that involved front-end and
-back-end.
+I'm a software craftsman with 6 years of experience, and I'm truly passionate about development. I've had the opportunity to work on various projects involving both front-end and back-end technologies.
 
 Well organized work is a must for me : I use productivity tool for all my tasks and coding issues such as Jira or Azure
 DevOps. <br />
 
-I am always eager to work on challenging tasks.
+Being well-organized is crucial for me. I efficiently manage my tasks and coding issues by utilizing productivity tools.<br />
+
+I'm always eager to tackle challenging tasks and push my boundaries as a developer. Feel free to explore my repositories and connect with me!
 
 ---
 
