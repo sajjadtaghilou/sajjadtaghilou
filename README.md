@@ -78,12 +78,11 @@ I'm always eager to tackle challenging tasks and push my boundaries as a develop
         src="https://img.shields.io/endpoint?logo=mongodb&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fmocki.io%2Fv1%2Fd67b7402-338e-4d03-b7fe-bae70f218f62"><a>
 </p>
 
-- Design, develop, troubleshoot, debug and test, a **REST API**
-- Design and develop robust services in coordination with frontend developers and produce well-tested, high quality code
-- Architect solutions to business and technical problems that use current technologies
-- Develop clean and maintainable services based on product management and Front-end requirements while keeping in mind
-RESTful API design guidelines
-- Work in agile cross-functional teams while assuring deadlines and high code quality standards
+- Design, develop, troubleshoot, debug, and test **REST APIs**.
+- Collaborate with frontend developers to create robust, well-tested, high-quality code for services.
+- Architect solutions for business and technical challenges using current technologies.
+- Develop clean, maintainable services based on product management and front-end requirements, adhering to RESTful API design principles.
+- Participate in agile cross-functional teams, ensuring timely delivery and maintaining high code quality standards.
 
 ---
 
