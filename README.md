@@ -49,18 +49,15 @@ I'm always eager to tackle challenging tasks and push my boundaries as a develop
 </p>
 
 
-- Build **ReactJs** front end for <b>Web Application</b> for financial services platform.
+- Build **ReactJs** front end for <b>Web Application</b> in the financial services sector and ecommerce.
 
-- Test **ReactJs** <b>Web Application</b> by jest and react testing librery
+- Test **ReactJs - Typescript** <b>Web Application</b> using Jest, React Testing Library, and Cypress for end-to-end testing.
 
-- Build **ReactJs - Typescript** <b>Web and Mobile Application</b> for fintech platform
+- Develop **ReactJs - Typescript** <b>Web and Mobile Application</b> for fintech platform
 
-- Test **ReactJs - Typescript** <b>Web Application</b> jest and react testing library in cunjunction with cypress for
-e2e testing
+- Create **React Native** for <b>Android / IOS native application</b> for fintech startup bussines.
 
-- Build **React Native** for <b>Android / IOS native application</b> for fintech startup bussines.
-
-- Build **Gatsby** front end for <b>SEO friendly Web Application</b> for private customer.
+- Design **Gatsby** front end for <b>SEO friendly Web Application</b> catering to private customers.
 
 ---
 
