@@ -18,7 +18,7 @@ I'm always eager to tackle challenging tasks and push my boundaries as a develop
       src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" /></a>
   <a href="https://nextjs.org/">
     <img alt="Next"
-      src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" /></a>
+      src="[https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge](https://flat.badgen.net/badge/icon/vercel?icon=vercel&label)" /></a>
   <a href="https://reactjs.org/">
     <img alt="React"
       src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" /></a>
